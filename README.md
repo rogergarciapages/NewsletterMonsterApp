@@ -1,0 +1,2 @@
+# NewsletterMonsterApp
+NewsletterMonster Frontend
