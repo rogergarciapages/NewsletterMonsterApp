@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/_W3R2VwRyF4?feature=shared" target="_blank">
@@ -762,3 +763,7 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+# NewsletterMonsterApp
+NewsletterMonster Frontend
+>>>>>>> f4578bb44b02913671b812857667c2d2e1054d23
